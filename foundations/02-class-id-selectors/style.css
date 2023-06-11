@@ -1,0 +1,22 @@
+.class {
+    background-color: #F08080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id1 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#id1, #id2 {
+    font-family: "vedana", "DejaVu Sans", sans-serif;
+}
+
+.class1, #id2 {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: 700;
+}
